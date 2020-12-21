@@ -25,5 +25,5 @@ Além do dicionário, os arquivos `INPUTS/INPUT_SPSS_MICRODADOS_ENEM_2019.sps` e
 -  Boas praticas de engenharia de software.
 -  Conhecimentos de SQL.
 
-Caso haja alguma dúvida estamos à disposição por email.
+Caso haja alguma dúvida estamos à disposição por email.  
 Boa sorte!
