@@ -14,11 +14,11 @@ O entregável deve ser um repositório git com o código necessário para resolv
 
  1. Os dados devem ser carregados em um banco de dados relacional. Preferencialmente deve ser utilizado PostgreSQL ou MySQL. SQLite também pode ser escolhido como alternativa mais simples.
  2. Calcular a média das notas por estado dos alunos não "treineiros".
- 3. Calcular o percentual de acerto de cada habilidade por estado, limitando aos 5 estados com maior quantidade de inscritos. O mapeamento de questão em habilidade é obtido pelo arquivo `ITENS_PROVA_2019.csv`. As questões de "Linguagens e Códigos" podem ser ignoradas sem prejuízo a avaliação.
+ 3. Calcular o percentual de acerto de cada habilidade das questões de "Ciências da Natureza", limitando aos 5 estados com maior quantidade de inscritos.
 
 Os itens 2 e 3 devem ser feitos em SQL.  
 O item 1 pode ser resolvido com qualquer linguagem ou ferramenta.  
-Caso o volume de dados seja um problema, o candidato pode limitar os microdados nas 100.000 primeiras linhas do arquivo.  
+Caso o volume de dados seja um problema, o candidato pode limitar os microdados nas 50.000 primeiras linhas do arquivo.  
 Além do dicionário, os arquivos `INPUTS/INPUT_SPSS_MICRODADOS_ENEM_2019.sps` e `INPUTS/INPUT_SPSS_ITENS_PROVA_2019.sps` contêm uma breve descrição das colunas dos microdados.  
 
 ## Critérios de Avaliação
